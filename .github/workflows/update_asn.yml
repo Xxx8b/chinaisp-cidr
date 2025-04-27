@@ -36,7 +36,7 @@ jobs:
         
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "更新运营商 ASN 列表 $(date '+%Y/%m/%d %H:%M:%S')" || echo "没有需要提交的更改"
+        git commit -m "更新运营商ASN列表 $(date '+%Y/%m/%d %H:%M:%S')" || echo "没有需要提交的更改"
         git pull --rebase
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
         git push || echo "没有需要推送的更改"
