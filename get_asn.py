@@ -7,16 +7,16 @@ from collections import defaultdict
 
 OPERATOR_URLS = {
     'Mobile': [
-        'https://raw.githubusercontent.com/GuangYu-yu/chinaisp-cidr/refs/heads/main/China_Mobile_v6.txt',
-        'https://raw.githubusercontent.com/GuangYu-yu/chinaisp-cidr/refs/heads/main/China_Mobile_v6.txt'
+        'https://raw.githubusercontent.com/Xxx8b/chinaisp-cidr/refs/heads/main/China_Mobile_v6.txt',
+        'https://raw.githubusercontent.com/Xxx8b/chinaisp-cidr/refs/heads/main/China_Mobile_v6.txt'
     ],
     'Unicom': [
-        'https://raw.githubusercontent.com/GuangYu-yu/chinaisp-cidr/refs/heads/main/China_Unicom_v4.txt',
-        'https://raw.githubusercontent.com/GuangYu-yu/chinaisp-cidr/refs/heads/main/China_Unicom_v6.txt'
+        'https://raw.githubusercontent.com/Xxx8b/chinaisp-cidr/refs/heads/main/China_Unicom_v4.txt',
+        'https://raw.githubusercontent.com/Xxx8b/chinaisp-cidr/refs/heads/main/China_Unicom_v6.txt'
     ],
     'Telecom': [
-        'https://raw.githubusercontent.com/GuangYu-yu/chinaisp-cidr/refs/heads/main/China_Telecom_v6.txt',
-        'https://raw.githubusercontent.com/GuangYu-yu/chinaisp-cidr/refs/heads/main/China_Telecom_v6.txt'
+        'https://raw.githubusercontent.com/Xxx8b/chinaisp-cidr/refs/heads/main/China_Telecom_v6.txt',
+        'https://raw.githubusercontent.com/Xxx8b/chinaisp-cidr/refs/heads/main/China_Telecom_v6.txt'
     ]
 }
 
